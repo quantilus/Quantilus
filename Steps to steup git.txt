@@ -1,1 +1,1 @@
-Steps to steup git.
+Steps to setup git. Parikshit added this line.
